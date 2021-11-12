@@ -77,8 +77,6 @@ while ($true) {
     Write-Host "ses ve goruntu birlestiriliyor..."
     Invoke-Expression ".\ffmpeg.exe -loglevel quiet -i webcams.mp4 -i deskshare.mp4 -c copy $resultFileName"
     #delete webcams.mp4 deskshare.mp4
-    Remove-Item -Force ".\webcams.mp4"
-    Remove-Item -Force ".\deskshare.mp4"
     Write-Host "islem tamamlandi."
     Write-Host ""
     $host.UI.RawUI.ClearHost
