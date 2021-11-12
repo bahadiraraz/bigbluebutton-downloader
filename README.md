@@ -19,6 +19,7 @@ run.bat dosyasini calistiriyorsunuz.
 bu kisima indirmek istedigimiz ders kayidini actiktan sonra bir kere geri tusuna basarak linki kopyaliyoruz ve kopyaladigimiz linki `video linki giriniz` kismina yapistiriyoruz.
 
 eger link degismiyorsa bir onceki sakai sekmesine basip tekrar ayni sekmeye gelin.
+
 ![image](https://user-images.githubusercontent.com/48323786/141493620-d0704dd5-ea75-4bec-88c0-c1b99a1d0f07.png)
 ![okul](https://user-images.githubusercontent.com/48323786/141494520-672d2bfb-3917-4a36-b113-fb4fa1febeec.gif)
 
@@ -29,6 +30,7 @@ video kayit isimi kismina ders kaydini hangi isimle kayit etmek istediginizi gir
 ![image](https://user-images.githubusercontent.com/48323786/141494913-7498d942-1363-4c50-8e00-b2ad25722a73.png)
 
 ve bu kadar ayni klasorun icerisine ders kaydini indiriyor oradan videoyu acabilirsiniz artik 😋
+
 ![image](https://user-images.githubusercontent.com/48323786/141495980-d22ae4e0-87a9-4fa5-b3ef-6a1b09f678f1.png)
 
 ![Screenshot 2021-11-12 185647](https://user-images.githubusercontent.com/48323786/141496080-c4c38f65-eeab-446e-96f4-e0222289b54d.jpg)
