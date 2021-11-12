@@ -20,6 +20,8 @@ bu kisima indirmek istedigimiz ders kayidini actiktan sonra bir kere geri tusuna
 
 eger link degismiyorsa bir onceki sakai sekmesine basip tekrar ayni sekmeye gelin.
 
+video linki `https` ile  baslamalidir o yuzden tum linki kopyaladiginizdan emin olun. 
+
 ![image](https://user-images.githubusercontent.com/48323786/141493620-d0704dd5-ea75-4bec-88c0-c1b99a1d0f07.png)
 ![okul](https://user-images.githubusercontent.com/48323786/141494520-672d2bfb-3917-4a36-b113-fb4fa1febeec.gif)
 
