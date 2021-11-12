@@ -33,6 +33,9 @@ ve bu kadar ayni klasorun icerisine ders kaydini indiriyor oradan videoyu acabil
 
 ![Screenshot 2021-11-12 185647](https://user-images.githubusercontent.com/48323786/141496080-c4c38f65-eeab-446e-96f4-e0222289b54d.jpg)
 
+![image](https://user-images.githubusercontent.com/48323786/141497008-c38ff034-6567-4f3f-8d29-dbd6878348e8.png)
+
+
 
 
 
