@@ -19,7 +19,7 @@ function DownloadFile
 
 while ($true) {
     Write-Host "yapimci bahadir araz :)"
-    Write-Output https://github.com/bahadiraraz
+    Write-Output instagram bahadiraraz2
     $bbbUrl = Read-Host -Prompt 'video linkini giriniz'
     $resultFileName = Read-Host -Prompt 'video kayit isimi'
     $resultFileName += ".mp4"
