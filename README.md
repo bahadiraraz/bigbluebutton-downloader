@@ -17,13 +17,6 @@ run.bat dosyasini calistiriyorsunuz.
 ![Screenshot 2021-11-12 183657](https://user-images.githubusercontent.com/48323786/141493019-31f5cd29-59ff-4d97-8657-fd1aa4e0e9e4.jpg)
 
 
-
-![image](https://user-images.githubusercontent.com/48323786/145161520-8bc22983-5887-4769-8d65-d444e47e6641.png)
-
-![image](https://user-images.githubusercontent.com/48323786/145161618-76381088-c63c-4ed7-8a76-db7704cf6ea3.png)
-
-görüntü ayarlarını bu şekilde yapıyoruz.
-
 bu kisima indirmek istedigimiz ders kayidini actiktan sonra bir kere geri tusuna basarak linki kopyaliyoruz ve kopyaladigimiz linki `video linki giriniz` kismina yapistiriyoruz.
 
 eger link degismiyorsa bir onceki sakai sekmesine basip tekrar ayni sekmeye gelin.
