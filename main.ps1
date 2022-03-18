@@ -23,24 +23,26 @@ while ($true) {
     $bbbUrl = Read-Host -Prompt 'video linkini giriniz'
     $resultFileName = Read-Host -Prompt 'video kayit isimi'
     $resultFileName += ".mp4"
-    $parts = $bbbUrl -split "meetingId="
-    $meetingId = $parts[1]
+    $parts = $bbbUrl -split "presentation/2.3/"
+    $ID = $parts[1] -split "AccessToken"
+    $ID  = $ID[0]
+    $ID = $ID -replace '[?]'
     $bbbHost = $parts[0] -split "/playback"
     $bbbHost = $bbbHost[0]
-
-    Write-Host "MeetingID: $meetingId"
+   
+    Write-Host "ID: $ID"
     Write-Host "BBB-Host: $bbbHost"
 
     # sesi indirme
 
-    $webcamsUrl = "$bbbHost/presentation/$meetingID/video/webcams.mp4"
+    $webcamsUrl = "$bbbHost/presentation/$ID/video/webcams.mp4"
     $output = "webcams.mp4"
 
     DownloadFile $webcamsUrl $output "ses"
 
     # goruntu indirme
 
-    $deskshareUrl = "$bbbHost/presentation/$meetingID/deskshare/deskshare.mp4"
+    $deskshareUrl = "$bbbHost/presentation/$ID/deskshare/deskshare.mp4"
     $output = "deskshare.mp4"
 
     DownloadFile $deskshareUrl $output "video"
